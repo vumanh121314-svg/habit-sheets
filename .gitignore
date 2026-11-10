@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+habit_sheets_3.db
+.streamlit/secrets.toml
+.env
